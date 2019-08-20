@@ -21,7 +21,7 @@
     padding-top: 3%;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 600px) {
     .Ledger {
         flex-direction: column;
     }

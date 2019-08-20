@@ -1,0 +1,59 @@
+.Info {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    height: 250px;
+}
+
+.Info_Column{
+    float: left;
+    width: 60%;
+    height: 100%;
+    border: 1px black solid;
+}
+
+.Info_Column:last-child{
+    width: 40%;
+    float: left;
+    border: 1px green solid;
+    font-size: 30px;
+    text-align: center;
+}
+
+.Title {
+    text-align: left;
+    padding-top: 3%;
+    padding-left: 20px;
+    font-family: 'Gudea', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    height: auto;
+}
+
+.Description {
+    text-align: left;
+    padding-left: 20px;
+    font-weight: 300;
+    font-size: 20px;
+    height: auto;
+}
+
+@media (max-width: 480px) {
+    .Info {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .Info_Column {
+        float: none;
+        width: auto;
+    }
+
+    .Info_Column:last-child {
+        float: none;
+        width: auto;
+    }
+
+
+}

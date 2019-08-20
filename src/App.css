@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+
 }
 
 .App-logo {
@@ -29,5 +29,31 @@
   }
   to {
     transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 480px) {
+  .App {
+    width: auto;
+  }
+
+  .Bar {
+    width: auto;
+  }
+
+  .Main {
+    width: auto;
+  }
+
+  .info {
+    width: auto;
+  }
+
+  .Ledger {
+    width: auto;
+  }
+
+  .Coin {
+    width: auto;
   }
 }

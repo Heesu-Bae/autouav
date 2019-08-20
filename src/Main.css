@@ -1,0 +1,23 @@
+.Main-logo {
+    height: 200px;
+    pointer-events: none;
+}
+
+.Main {
+    background-image: url('./logo.jpg');
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    color: white;
+    height: 400px;
+    width: 100%;
+}
+
+.Main p {
+    font-family: 'Ruda', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+
+}

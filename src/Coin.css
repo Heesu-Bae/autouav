@@ -1,0 +1,10 @@
+.Coin {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 30px;
+    height: 400px;
+    width: 100%;
+    border: 1px solid red;
+    text-align: center;
+}

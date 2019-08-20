@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import logo from './logo.jpg';
 import './Info.css';
 
 class Info extends Component {

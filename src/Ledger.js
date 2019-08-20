@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import logo from './logo.jpg';
 import './Ledger.css';
 
 class Ledger extends Component {

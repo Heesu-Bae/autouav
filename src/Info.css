@@ -21,7 +21,7 @@
     text-align: center;
 }
 
-.Title {
+.Info_Column .Title {
     text-align: left;
     padding-top: 3%;
     padding-left: 20px;
@@ -31,10 +31,11 @@
     height: auto;
 }
 
-.Description {
+.Info_Column .Description {
     text-align: left;
     padding-left: 20px;
     font-weight: 300;
+    font-family: 'Gudea';
     font-size: 20px;
     height: auto;
 }

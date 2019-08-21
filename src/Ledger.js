@@ -10,7 +10,7 @@ class Ledger extends Component {
                     Channel Information
                 </div>
                 <div className="Description">
-                    First Ledger
+                    Contents...
                 </div>
             </div>
         )

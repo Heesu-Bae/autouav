@@ -4,12 +4,9 @@
     <list default="true" id="636868c8-5681-4ff8-a9e1-9fc8774132f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Coin.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coin.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Info.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Info.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Info.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ledger.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ledger.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ledger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ledger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +80,7 @@
       <workItem from="1565757914178" duration="10649000" />
       <workItem from="1566261823640" duration="4939000" />
       <workItem from="1566283795420" duration="172000" />
-      <workItem from="1566284020628" duration="8082000" />
+      <workItem from="1566284020628" duration="9093000" />
     </task>
     <servers />
   </component>

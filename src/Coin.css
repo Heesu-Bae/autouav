@@ -4,8 +4,8 @@
     font-size: 30px;
     height: 400px;
     width: 100%;
-    border: 1px solid red;
     font-family: 'Gudea', sans-serif;
+    margin-top: 20px;
 }
 
 .Coin .Title {

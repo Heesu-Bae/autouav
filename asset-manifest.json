@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/autouav/static/css/main.a8b5255d.chunk.css",
-    "main.js": "/autouav/static/js/main.d3306cc8.chunk.js",
-    "main.js.map": "/autouav/static/js/main.d3306cc8.chunk.js.map",
+    "main.css": "/autouav/static/css/main.092b7f8c.chunk.css",
+    "main.js": "/autouav/static/js/main.fb8de5b9.chunk.js",
+    "main.js.map": "/autouav/static/js/main.fb8de5b9.chunk.js.map",
     "runtime~main.js": "/autouav/static/js/runtime~main.df6010bd.js",
     "runtime~main.js.map": "/autouav/static/js/runtime~main.df6010bd.js.map",
     "static/js/2.d6a534e5.chunk.js": "/autouav/static/js/2.d6a534e5.chunk.js",
     "static/js/2.d6a534e5.chunk.js.map": "/autouav/static/js/2.d6a534e5.chunk.js.map",
     "index.html": "/autouav/index.html",
-    "precache-manifest.d01a42adf196cfa039dbc1720dc34b58.js": "/autouav/precache-manifest.d01a42adf196cfa039dbc1720dc34b58.js",
+    "precache-manifest.fa6c3da24d99ffee3f5395b67d1fed71.js": "/autouav/precache-manifest.fa6c3da24d99ffee3f5395b67d1fed71.js",
     "service-worker.js": "/autouav/service-worker.js",
-    "static/css/main.a8b5255d.chunk.css.map": "/autouav/static/css/main.a8b5255d.chunk.css.map",
+    "static/css/main.092b7f8c.chunk.css.map": "/autouav/static/css/main.092b7f8c.chunk.css.map",
     "static/media/Main.css": "/autouav/static/media/logo.3090ae7c.jpg"
   }
 }

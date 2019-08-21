@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/autouav/precache-manifest.d01a42adf196cfa039dbc1720dc34b58.js"
+  "/autouav/precache-manifest.fa6c3da24d99ffee3f5395b67d1fed71.js"
 );
 
 self.addEventListener('message', (event) => {

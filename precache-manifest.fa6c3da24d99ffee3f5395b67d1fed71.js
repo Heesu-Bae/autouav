@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a788dba2791225567c8ea60006fe5a16",
+    "revision": "d08735f735f25040a44499a922977f28",
     "url": "/autouav/index.html"
   },
   {
-    "revision": "28ddb29fb11e8ec4faae",
-    "url": "/autouav/static/css/main.a8b5255d.chunk.css"
+    "revision": "2eecd54354656020d5dc",
+    "url": "/autouav/static/css/main.092b7f8c.chunk.css"
   },
   {
     "revision": "9eee67cf782a38d35aeb",
     "url": "/autouav/static/js/2.d6a534e5.chunk.js"
   },
   {
-    "revision": "28ddb29fb11e8ec4faae",
-    "url": "/autouav/static/js/main.d3306cc8.chunk.js"
+    "revision": "2eecd54354656020d5dc",
+    "url": "/autouav/static/js/main.fb8de5b9.chunk.js"
   },
   {
     "revision": "bf544da541a420c4f900",

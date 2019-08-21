@@ -7,10 +7,10 @@ class Info extends Component {
         return (
             <div className="Info">
                 <div className="Info_Column">
-                    <div className="Title">
+                    <div className="Title_first">
                         Seamless communication via UAV
                     </div>
-                    <div className="Description">
+                    <div className="Description_first">
                         <p>First, Providing smooth communication services in high demand areas.</p>
                         <p>Second, Autonomously explore shaded areas.</p>
                         <p>Third, Custom caching service based on federated learning.</p>
@@ -18,7 +18,12 @@ class Info extends Component {
                     </div>
                 </div>
                 <div className="Info_Column">
-                    <p>Recent Ledger</p>
+                    <div className="Title_second">
+                        Recent Ledger
+                    </div>
+                    <div className="Description_second">
+                        Contents....
+                    </div>
                 </div>
             </div>
         )

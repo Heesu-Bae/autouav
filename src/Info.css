@@ -2,40 +2,60 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    align-content: center;
+    align-items: flex-start;
     height: auto;
 }
 
 .Info_Column{
     float: left;
     width: 60%;
-    height: 100%;
+    height: auto;
     border: 1px black solid;
 }
 
 .Info_Column:last-child{
     width: 40%;
-    float: left;
+    height: auto;
+    float: right;
     border: 1px green solid;
-    font-size: 30px;
-    text-align: center;
+    font-family: 'Gudea', sans-serif;
+    display: flex;
+    flex-direction: column;
 }
 
-.Info_Column .Title {
+.Info_Column .Title_first {
     text-align: left;
-    padding-top: 3%;
-    padding-left: 20px;
     font-family: 'Gudea', sans-serif;
     font-weight: 700;
     font-size: 28px;
-    height: auto;
+    padding: 4px 4px 4px 10px;
+    background-color: #FFF;
+    border-left: #03867B 9px solid;
 }
 
-.Info_Column .Description {
+.Info_Column .Description_first {
     text-align: left;
     padding-left: 20px;
     font-weight: 300;
     font-family: 'Gudea';
+    font-size: 20px;
+}
+
+.Info_Column .Title_second {
+    font-weight: 700;
+    font-size: 28px;
+    height: auto;
+    width: 200px;
+    padding: 4px 4px 4px 10px;
+    background-color: #FFF;
+    border-left: #03867B 9px solid;
+}
+
+.Info_Column .Description_second {
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 10px;
+    font-weight: 300;
     font-size: 20px;
     height: auto;
 }
@@ -53,8 +73,15 @@
 
     .Info_Column:last-child {
         float: none;
+        width: 100%;
+    }
+
+    .Title_second {
         width: auto;
     }
 
+    .Description_second {
+        width: auto;
+    }
 
 }

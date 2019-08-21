@@ -6,7 +6,12 @@ class Coin extends Component {
     render() {
         return (
             <div className="Coin">
-                Coin Issuance History
+                <div className="Title">
+                    Coin Issuance History
+                </div>
+                <div className="Description">
+                    Contents...
+                </div>
             </div>
         )
     }
